@@ -4,20 +4,6 @@
 
 ---
 
-### 🛠 My Stats
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark" alt="Most Commit Language"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark" alt="Stats"/>
-</div>
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark" alt="Repositories per Language"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark&utcOffset=3" alt="Productive Time"/>
-</div>
-
----
-
 ### ✨ About Me
 
 - 🔭 I’m currently working on improving my programming skills.

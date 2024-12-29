@@ -7,9 +7,9 @@
 ### ✨ About Me
 
 - 🔭 I’m currently working on improving my programming skills.
-- 🌱 I’m learning Python, Java, and web development.
+- 🌱 I’m learning Python, Java, and С++ development.
 - 💬 Ask me about IT news, development, or anything tech-related.
-- 📫 How to reach me: [Alexander's Website](https://daniilshat.ru/)
+- 📫 How to reach me: [My Website](https://daniilshat.ru/)
 
 ---
 

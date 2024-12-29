@@ -18,14 +18,6 @@
 
 ---
 
-### 🐍 Snake Game
-
-<div align="center">
-    <img src="https://github.com/daniilshat/daniilshat/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
----
-
 ### ✨ About Me
 
 - 🔭 I’m currently working on improving my programming skills.

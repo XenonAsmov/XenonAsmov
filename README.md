@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on improving my programming skills.
 - 🌱 I’m learning Python, Java, and С++ development.
 - 💬 Ask me about IT news, development, or anything tech-related.
-- 📫 How to reach me: [My Discord](asm.abuse)
+- 📫 How to contact me in Discord: asm.abuse
 
 ---
 

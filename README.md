@@ -23,5 +23,5 @@
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=XenonAsmov&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=XenonAsmov&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
 </div>

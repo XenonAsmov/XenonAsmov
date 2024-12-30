@@ -16,6 +16,7 @@
 ### 📈 GitHub Streak Stats
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=daniilshat&theme=solarized-dark&hide_border=true" alt="GitHub Streak Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark" alt="Most Commit Language"/>
+
 </div>
 

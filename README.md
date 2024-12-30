@@ -17,6 +17,9 @@
 ### 🛠 My Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=XenonAsmov&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XenonAsmov&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=XenonAsmov&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>

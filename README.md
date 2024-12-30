@@ -17,6 +17,6 @@
 ### 🛠 My Stats
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark" alt="Most Commit Language"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XenonAsmov&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
 </div>
 

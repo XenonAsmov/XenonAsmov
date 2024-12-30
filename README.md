@@ -13,10 +13,9 @@
 
 ---
 
-### 📈 GitHub Streak Stats
+### 🛠 My Stats
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark" alt="Most Commit Language"/>
-
 </div>
 

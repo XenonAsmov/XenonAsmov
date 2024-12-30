@@ -18,6 +18,5 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XenonAsmov&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=XenonAsmov&bg_color=2E3B4E&color=9B9B9B&line=ffffff&point=00CFFF&area=true&area_color=58A6FF" alt="GitHub Activity Graph" />
 </div>
 

@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on improving my programming skills.
 - 🌱 I’m learning Java.
 - 🕶 Skills - JavaFx, OpenGL, Forge API, Minecraft API, Git.
-- 💬 Ask me about IT news, development, or anything tech-related.
 - 📫 How to contact me in Discord: asm.abuse
 
 ---

@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XenonAsmov&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,makefile" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XenonAsmov&layout=compact&theme=dark&langs_count=10&hide=html,css,makefile" alt="Top Languages" />
 </div>
 
 ---

@@ -7,7 +7,7 @@
 ### ✨ About Me
 
 - 🔭 I’m currently working on improving my programming skills
-- 🌱 I’m learning Java, C++ and Python
+- 🌱 I’m learning Java, Rust and Python
 - 🕶 Skills - JavaFx, OpenGL, Forge API, Minecraft API, Git
 - 📫 How to contact me in Discord: asm.abuse
 ---

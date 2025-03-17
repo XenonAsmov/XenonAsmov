@@ -26,5 +26,5 @@
 ---
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1322973293212602451/1348348895461249096/github.gif?ex=67cf2343&is=67cdd1c3&hm=ba1cb1f9f0943c82b6f9c304b4de85393cb0ab8300c6fb782cc73caa524e4302&" alt="Gif" />
+    <img src="https://cdn.discordapp.com/attachments/1322973293212602451/1351259824054079539/github.gif?ex=67d9ba47&is=67d868c7&hm=1a55f6176cdf0711ed21382c2010a4456f21133caa068a8d185a30b1703ba8ad&" alt="Gif" />
 </div>

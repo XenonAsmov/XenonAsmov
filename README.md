@@ -1,4 +1,4 @@
-![github](https://github.com/user-attachments/assets/5f6b9a12-4cf9-4893-a0e8-396b2f073d2c)![github](https://github.com/user-attachments/assets/f998dcec-5ff9-4808-853d-67a164d20d84)<h1 align="center">Hi there, I'm Xenon
+<h1 align="center">Hi there, I'm Xenon
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia</h3>
 

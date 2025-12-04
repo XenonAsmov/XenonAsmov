@@ -11,7 +11,7 @@
 - 🕶 Skills - JavaFx, OpenGL, Forge API, Minecraft API, Git
 - 📫 How to contact me in Discord: asm.abuse
 ---
-
+<!--
 ### 🛠 My Stats
 
 <div align="center">
